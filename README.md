@@ -102,24 +102,6 @@ $2.1M revenue at risk annually
 Longer lead time leads to higher cancellation risk
 Recommendation: Implement stronger cancellation rules & reminders
 
-🧠 Skills Gained During Internship
-
-Through this analysis, I gained experience in:
-
-Power BI dashboard design
-
-Data modeling (dimensions, facts)
-
-DAX calculations
-
-Business intelligence reporting
-
-Booking & cancellation pattern analysis
-
-Hospitality analytics
-
-Data storytelling & visualization
-
 
 📁 Project Files
 📌 Hotel Reservation Analysis – POWERBI.pbix
